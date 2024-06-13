@@ -181,7 +181,7 @@ f"The price is {69:.2f} dollars" # => 'The price is 69.00 dollars'
 f"The price is {69.1234:.2f} dollars" # => 'The price is 69.12 dollars'
 ```
 
-(Другие модификаторы)[https://learnpython.com/blog/python-string-formatting/]
+[Другие модификаторы](https://learnpython.com/blog/python-string-formatting/)
 
 Любое выражение, используемое в форматировании строки, будет конвертировано в строку:
 
